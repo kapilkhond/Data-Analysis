@@ -2,7 +2,7 @@
 
 Data analysis is a process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusions and supporting decision-making.  
 
-## Product Analysis
+## [Product Analysis](https://github.com/kapilkhond/Data-Analysis/tree/master/Product-Analysis)
 we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
 In this section we explore 5 high level business questions related to our data:
